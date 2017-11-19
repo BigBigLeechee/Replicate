@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class MicrophoneInput : MonoBehaviour {
 
-    private static int VOLUME_DATA_LENGTH = 128;    //录制的声音长度
+    private static int VOLUME_DATA_LENGTH = 128;    //录制的声音长
+
+    private static MicrophoneInput mInstance;
 
     public float volume;        //音量
 
@@ -13,6 +15,16 @@ public class MicrophoneInput : MonoBehaviour {
 
     private const int frequency = 44100; //码率
     private const int lengthSec = 999;   //录制时长
+
+    public static MicrophoneInput Instance{
+        get{
+            return mInstance;
+        }
+    }
+
+    private void Awake() {
+        mInstance = this;
+    }
 
 	// Use this for initialization
 	void Start () {
@@ -27,7 +39,6 @@ public class MicrophoneInput : MonoBehaviour {
 	void Update () {
         volume = GetMaxVolume();
 	}
-
 
 
     /// <summary>
@@ -68,4 +79,7 @@ public class MicrophoneInput : MonoBehaviour {
         return maxVolume;
     }
 
+    public float getVolume(){
+        return volume;
+    }
 }

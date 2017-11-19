@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 39870f64aff661a4fb38c310098745cd
+timeCreated: 1511109930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "NPC_60_with_alpha \u526F\u672C_0"
+    21300002: "NPC_60_with_alpha \u526F\u672C_1"
+    21300004: "NPC_60_with_alpha \u526F\u672C_2"
+    21300006: "NPC_60_with_alpha \u526F\u672C_3"
+    21300008: "NPC_60_with_alpha \u526F\u672C_4"
+    21300010: "NPC_60_with_alpha \u526F\u672C_5"
+    21300012: "NPC_60_with_alpha \u526F\u672C_6"
+    21300014: "NPC_60_with_alpha \u526F\u672C_7"
+    21300016: "NPC_60_with_alpha \u526F\u672C_8"
+    21300018: "NPC_60_with_alpha \u526F\u672C_9"
+    21300020: "NPC_60_with_alpha \u526F\u672C_10"
+    21300022: "NPC_60_with_alpha \u526F\u672C_11"
+    21300024: "NPC_60_with_alpha \u526F\u672C_12"
+    21300026: "NPC_60_with_alpha \u526F\u672C_13"
+    21300028: "NPC_60_with_alpha \u526F\u672C_14"
+    21300030: "NPC_60_with_alpha \u526F\u672C_15"
+    21300032: "NPC_60_with_alpha \u526F\u672C_16"
+    21300034: "NPC_60_with_alpha \u526F\u672C_17"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -100}
+        - {x: -3, y: -100}
+        - {x: -3, y: -99}
+        - {x: -5, y: -96}
+        - {x: -7, y: -96}
+        - {x: -11, y: -98}
+      - - {x: 5, y: -100}
+        - {x: 13, y: -100}
+        - {x: 13, y: -99}
+        - {x: 11, y: -96}
+        - {x: 9, y: -96}
+        - {x: 5, y: -98}
+      - - {x: -47, y: 100}
+        - {x: -63, y: 96}
+        - {x: -85, y: 48}
+        - {x: -85, y: -46}
+        - {x: -67, y: -100}
+        - {x: 0, y: -100}
+        - {x: 85, y: -56}
+        - {x: 85, y: 76}
+        - {x: 35, y: 100}
+      physicsShape:
+      - - {x: -20, y: 99}
+        - {x: -71, y: 63}
+        - {x: -79, y: 46}
+        - {x: -84, y: 28}
+        - {x: -84, y: -40}
+        - {x: -56, y: -99}
+        - {x: 19, y: -99}
+        - {x: 85, y: -48}
+        - {x: 85, y: 68}
+        - {x: 46, y: 99}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_1"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 312
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 100}
+        - {x: -85, y: 72}
+        - {x: -85, y: -37}
+        - {x: -68, y: -100}
+        - {x: 8, y: -100}
+        - {x: 85, y: -55}
+        - {x: 85, y: 85}
+        - {x: 82, y: 100}
+      - - {x: -9, y: -100}
+        - {x: -1, y: -100}
+        - {x: -1, y: -99}
+        - {x: -3, y: -96}
+        - {x: -5, y: -96}
+        - {x: -9, y: -98}
+      - - {x: -85, y: 58}
+        - {x: -85, y: 51}
+        - {x: -84, y: 51}
+        - {x: -81, y: 54}
+        - {x: -81, y: 55}
+        - {x: -84, y: 58}
+      physicsShape:
+      - - {x: -84, y: -70}
+        - {x: -71, y: -99}
+        - {x: 16, y: -99}
+        - {x: 85, y: -48}
+        - {x: 85, y: 99}
+        - {x: -81, y: 99}
+        - {x: -84, y: 98}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_2"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 312
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 100}
+        - {x: -77, y: 100}
+        - {x: -85, y: 96}
+        - {x: -85, y: -77}
+        - {x: -81, y: -100}
+        - {x: -8, y: -100}
+        - {x: 67, y: -50}
+        - {x: 85, y: -28}
+        - {x: 85, y: 86}
+      - - {x: -11, y: -98}
+        - {x: -11, y: -100}
+        - {x: -3, y: -100}
+        - {x: -3, y: -98}
+        - {x: -5, y: -96}
+        - {x: -9, y: -96}
+      physicsShape:
+      - - {x: -49, y: 99}
+        - {x: -84, y: 60}
+        - {x: -84, y: -57}
+        - {x: -59, y: -99}
+        - {x: -3, y: -99}
+        - {x: 85, y: -48}
+        - {x: 85, y: 76}
+        - {x: 44, y: 99}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 100}
+        - {x: -85, y: 73}
+        - {x: -85, y: -48}
+        - {x: -73, y: -100}
+        - {x: 3, y: -100}
+        - {x: 85, y: -45}
+        - {x: 85, y: 92}
+        - {x: 50, y: 100}
+      - - {x: 25, y: -99}
+        - {x: 25, y: -100}
+        - {x: 49, y: -100}
+        - {x: 49, y: -98}
+        - {x: 47, y: -96}
+        - {x: 29, y: -96}
+      - - {x: 73, y: -98}
+        - {x: 73, y: -100}
+        - {x: 85, y: -100}
+        - {x: 85, y: -96}
+        - {x: 75, y: -96}
+      physicsShape:
+      - - {x: -26, y: -100}
+        - {x: -26, y: -98}
+        - {x: -29, y: -97}
+        - {x: -31, y: -100}
+      - - {x: -84, y: -37}
+        - {x: -83, y: -42}
+        - {x: -59, y: -97}
+        - {x: 1, y: -97}
+        - {x: 85, y: -39}
+        - {x: 85, y: 77}
+        - {x: 83, y: 83}
+        - {x: 41, y: 100}
+        - {x: -40, y: 100}
+        - {x: -84, y: 54}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_4"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 112
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -91}
+        - {x: -79, y: -91}
+        - {x: -85, y: -94}
+        - {x: -85, y: -100}
+        - {x: -72, y: -100}
+        - {x: -71, y: -99}
+        - {x: -71, y: -94}
+      - - {x: -52, y: 100}
+        - {x: -85, y: 85}
+        - {x: -85, y: -79}
+        - {x: -78, y: -100}
+        - {x: 8, y: -100}
+        - {x: 69, y: -71}
+        - {x: 85, y: -26}
+        - {x: 85, y: 100}
+      - - {x: 1, y: -95}
+        - {x: -2, y: -98}
+        - {x: -2, y: -100}
+        - {x: 12, y: -100}
+        - {x: 12, y: -98}
+        - {x: 8, y: -95}
+      - - {x: 79, y: -35}
+        - {x: 79, y: -41}
+        - {x: 84, y: -45}
+        - {x: 85, y: -45}
+        - {x: 85, y: -28}
+        - {x: 81, y: -28}
+      - - {x: -85, y: 60}
+        - {x: -85, y: 51}
+        - {x: -84, y: 51}
+        - {x: -81, y: 54}
+        - {x: -81, y: 57}
+        - {x: -84, y: 60}
+      physicsShape:
+      - - {x: -85, y: -97}
+        - {x: -85, y: -100}
+        - {x: -75, y: -100}
+        - {x: -75, y: -99}
+        - {x: -78, y: -96}
+        - {x: -82, y: -96}
+      - - {x: -42, y: -99}
+        - {x: -42, y: -100}
+        - {x: -24, y: -100}
+        - {x: -24, y: -99}
+        - {x: -27, y: -96}
+        - {x: -39, y: -96}
+      - - {x: -2, y: -96}
+        - {x: -2, y: -100}
+        - {x: 10, y: -100}
+        - {x: 10, y: -97}
+        - {x: 6, y: -96}
+      - - {x: -27, y: 100}
+        - {x: -80, y: 75}
+        - {x: -84, y: 39}
+        - {x: -84, y: -96}
+        - {x: 42, y: -96}
+        - {x: 85, y: -37}
+        - {x: 85, y: 75}
+        - {x: 79, y: 100}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_5"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 117
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 100}
+        - {x: -85, y: 100}
+        - {x: -85, y: -77}
+        - {x: -73, y: -100}
+        - {x: 38, y: -100}
+        - {x: 77, y: -59}
+        - {x: 77, y: 8}
+      - - {x: 31, y: -92}
+        - {x: 24, y: -97}
+        - {x: 24, y: -100}
+        - {x: 53, y: -100}
+        - {x: 53, y: -98}
+        - {x: 45, y: -92}
+      - - {x: 63, y: -100}
+        - {x: 62, y: -97}
+        - {x: 57, y: -97}
+        - {x: 56, y: -100}
+      - - {x: 81, y: 7}
+        - {x: 81, y: 0}
+        - {x: 83, y: -2}
+        - {x: 85, y: -2}
+        - {x: 85, y: 7}
+        - {x: 84, y: 8}
+      - - {x: -85, y: 50}
+        - {x: -85, y: 33}
+        - {x: -84, y: 33}
+        - {x: -81, y: 36}
+        - {x: -81, y: 47}
+        - {x: -84, y: 50}
+      physicsShape:
+      - - {x: -23, y: -93}
+        - {x: -52, y: -93}
+        - {x: -65, y: -97}
+        - {x: -65, y: -100}
+        - {x: 2, y: -100}
+        - {x: 1, y: -97}
+        - {x: -9, y: -95}
+        - {x: -20, y: -94}
+      - - {x: 26, y: -100}
+        - {x: 42, y: -100}
+        - {x: 42, y: -99}
+        - {x: 39, y: -94}
+        - {x: 33, y: -94}
+        - {x: 26, y: -97}
+      - - {x: -50, y: 100}
+        - {x: -84, y: 82}
+        - {x: -84, y: -59}
+        - {x: -74, y: -94}
+        - {x: 48, y: -94}
+        - {x: 69, y: -67}
+        - {x: 69, y: 68}
+        - {x: 42, y: 100}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_6"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 24, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_7"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 143
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 37, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_9"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_10"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_12"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 27
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_13"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 83
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_14"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 54
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_15"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 77
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_16"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "NPC_60_with_alpha \u526F\u672C_17"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 40
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 14, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -178, y: -255}
+      - {x: -178, y: -256}
+      - {x: -166, y: -256}
+      - {x: -166, y: -255}
+      - {x: -169, y: -252}
+      - {x: -174, y: -252}
+    - - {x: -112, y: -238}
+      - {x: -103, y: -197}
+      - {x: -102, y: -188}
+      - {x: -101, y: -183}
+      - {x: -102, y: -188}
+      - {x: -102, y: -192}
+      - {x: -106, y: -214}
+      - {x: -102, y: -225}
+      - {x: -65, y: -233}
+      - {x: -51, y: -218}
+      - {x: -37, y: -201}
+      - {x: -3, y: -223}
+      - {x: 27, y: -213}
+      - {x: 30, y: -171}
+      - {x: 22, y: -144}
+      - {x: -1, y: -138}
+      - {x: -9, y: -147}
+      - {x: -10, y: -133}
+      - {x: 28, y: -125}
+      - {x: 86, y: -129}
+      - {x: 78, y: -171}
+      - {x: 114, y: -192}
+      - {x: 151, y: -212}
+      - {x: 165, y: -209}
+      - {x: 196, y: -176}
+      - {x: 234, y: -236}
+      - {x: 252, y: -225}
+      - {x: 256, y: -194}
+      - {x: 256, y: -191}
+      - {x: 238, y: -142}
+      - {x: 246, y: -101}
+      - {x: 253, y: -32}
+      - {x: 183, y: -1}
+      - {x: 191, y: 48}
+      - {x: 189, y: 75}
+      - {x: 236, y: 107}
+      - {x: 256, y: 130}
+      - {x: 256, y: 216}
+      - {x: 252, y: 228}
+      - {x: 222, y: 252}
+      - {x: 198, y: 256}
+      - {x: 139, y: 256}
+      - {x: 92, y: 223}
+      - {x: 63, y: 241}
+      - {x: 36, y: 255}
+      - {x: 28, y: 256}
+      - {x: -32, y: 256}
+      - {x: -86, y: 232}
+      - {x: -135, y: 256}
+      - {x: -194, y: 256}
+      - {x: -224, y: 240}
+      - {x: -256, y: 203}
+      - {x: -256, y: 121}
+      - {x: -241, y: 75}
+      - {x: -217, y: 55}
+      - {x: -204, y: 55}
+      - {x: -191, y: 60}
+      - {x: -179, y: 61}
+      - {x: -157, y: 70}
+      - {x: -132, y: 82}
+      - {x: -92, y: 124}
+      - {x: -57, y: 60}
+      - {x: -73, y: 28}
+      - {x: -139, y: 62}
+      - {x: -176, y: 61}
+      - {x: -189, y: 59}
+      - {x: -225, y: 41}
+      - {x: -256, y: 7}
+      - {x: -256, y: -73}
+      - {x: -242, y: -101}
+      - {x: -256, y: -179}
+      - {x: -256, y: -251}
+      - {x: -199, y: -251}
+      - {x: -148, y: -204}
+      - {x: -166, y: -230}
+      - {x: -150, y: -249}
+    - - {x: 251, y: -237}
+      - {x: 253, y: -242}
+      - {x: 256, y: -242}
+      - {x: 256, y: -234}
+      - {x: 254, y: -234}
+    - - {x: 250, y: -38}
+      - {x: 250, y: -44}
+      - {x: 252, y: -46}
+      - {x: 256, y: -46}
+      - {x: 256, y: -34}
+      - {x: 254, y: -34}
+    physicsShape:
+    - - {x: -241, y: -220}
+      - {x: -246, y: -221}
+      - {x: -255, y: -233}
+      - {x: -255, y: -245}
+      - {x: -253, y: -249}
+      - {x: -225, y: -249}
+      - {x: -219, y: -234}
+      - {x: -219, y: -227}
+      - {x: -229, y: -220}
+    - - {x: -107, y: -196}
+      - {x: -100, y: -185}
+      - {x: -100, y: -170}
+      - {x: -114, y: -162}
+      - {x: -116, y: -150}
+      - {x: -121, y: -143}
+      - {x: -128, y: -142}
+      - {x: -140, y: -142}
+      - {x: -146, y: -144}
+      - {x: -155, y: -150}
+      - {x: -155, y: -163}
+      - {x: -154, y: -172}
+      - {x: -144, y: -186}
+      - {x: -143, y: -193}
+      - {x: -137, y: -203}
+      - {x: -144, y: -209}
+      - {x: -151, y: -226}
+      - {x: -148, y: -237}
+      - {x: -118, y: -237}
+      - {x: -109, y: -217}
+      - {x: -118, y: -203}
+    - - {x: 236, y: -148}
+      - {x: 230, y: -142}
+      - {x: 226, y: -140}
+      - {x: 214, y: -138}
+      - {x: 202, y: -138}
+      - {x: 196, y: -140}
+      - {x: 190, y: -146}
+      - {x: 190, y: -165}
+      - {x: 193, y: -169}
+      - {x: 219, y: -178}
+      - {x: 219, y: -199}
+      - {x: 235, y: -229}
+      - {x: 243, y: -229}
+      - {x: 248, y: -218}
+      - {x: 248, y: -184}
+      - {x: 243, y: -158}
+    - - {x: -100, y: -173}
+      - {x: -100, y: -188}
+      - {x: -95, y: -216}
+      - {x: -93, y: -219}
+      - {x: -87, y: -219}
+      - {x: -83, y: -217}
+      - {x: -83, y: -177}
+      - {x: -85, y: -173}
+    - - {x: -162, y: -183}
+      - {x: -157, y: -171}
+      - {x: -157, y: -155}
+      - {x: -159, y: -152}
+      - {x: -171, y: -147}
+      - {x: -200, y: -141}
+      - {x: -204, y: -143}
+      - {x: -206, y: -153}
+      - {x: -214, y: -163}
+      - {x: -221, y: -163}
+      - {x: -238, y: -158}
+      - {x: -240, y: -166}
+      - {x: -247, y: -176}
+      - {x: -254, y: -191}
+      - {x: -254, y: -203}
+      - {x: -235, y: -217}
+      - {x: -217, y: -217}
+      - {x: -203, y: -216}
+      - {x: -193, y: -211}
+      - {x: -184, y: -206}
+      - {x: -171, y: -196}
+    - - {x: -83, y: -191}
+      - {x: -75, y: -214}
+      - {x: -72, y: -217}
+      - {x: -64, y: -217}
+      - {x: -59, y: -215}
+      - {x: -59, y: -192}
+      - {x: -61, y: -175}
+      - {x: -66, y: -172}
+      - {x: -76, y: -172}
+      - {x: -83, y: -176}
+    - - {x: 12, y: -145}
+      - {x: 6, y: -141}
+      - {x: -3, y: -141}
+      - {x: -5, y: -147}
+      - {x: -5, y: -214}
+      - {x: -3, y: -215}
+      - {x: 8, y: -215}
+      - {x: 12, y: -213}
+      - {x: 13, y: -194}
+      - {x: 13, y: -182}
+      - {x: 10, y: -178}
+    - - {x: 190, y: -149}
+      - {x: 174, y: -140}
+      - {x: 160, y: -138}
+      - {x: 138, y: -137}
+      - {x: 123, y: -137}
+      - {x: 99, y: -141}
+      - {x: 85, y: -149}
+      - {x: 85, y: -157}
+      - {x: 90, y: -169}
+      - {x: 112, y: -187}
+      - {x: 123, y: -194}
+      - {x: 148, y: -204}
+      - {x: 160, y: -204}
+      - {x: 164, y: -199}
+      - {x: 179, y: -176}
+      - {x: 190, y: -162}
+    - - {x: -26, y: -141}
+      - {x: -44, y: -141}
+      - {x: -51, y: -153}
+      - {x: -51, y: -186}
+      - {x: -35, y: -198}
+      - {x: -28, y: -198}
+      - {x: -8, y: -191}
+      - {x: -5, y: -186}
+      - {x: -5, y: -163}
+      - {x: -14, y: -145}
+    - - {x: -92, y: -141}
+      - {x: -99, y: -143}
+      - {x: -100, y: -146}
+      - {x: -100, y: -162}
+      - {x: -91, y: -173}
+      - {x: -55, y: -173}
+      - {x: -51, y: -171}
+      - {x: -51, y: -163}
+      - {x: -73, y: -141}
+    - - {x: -135, y: -109}
+      - {x: -109, y: -80}
+      - {x: -102, y: -77}
+      - {x: -94, y: -67}
+      - {x: -85, y: -50}
+      - {x: -85, y: -31}
+      - {x: -88, y: -12}
+      - {x: -85, y: -4}
+      - {x: -85, y: 3}
+      - {x: -91, y: 16}
+      - {x: -99, y: 29}
+      - {x: -108, y: 39}
+      - {x: -149, y: 56}
+      - {x: -159, y: 57}
+      - {x: -186, y: 57}
+      - {x: -209, y: 44}
+      - {x: -240, y: 19}
+      - {x: -244, y: 14}
+      - {x: -249, y: 4}
+      - {x: -255, y: -31}
+      - {x: -255, y: -57}
+      - {x: -250, y: -65}
+      - {x: -247, y: -77}
+      - {x: -240, y: -85}
+      - {x: -229, y: -96}
+      - {x: -230, y: -119}
+      - {x: -228, y: -126}
+      - {x: -219, y: -137}
+      - {x: -211, y: -141}
+      - {x: -203, y: -141}
+      - {x: -191, y: -134}
+      - {x: -183, y: -126}
+      - {x: -155, y: -121}
+    - - {x: 38, y: -107}
+      - {x: 63, y: -78}
+      - {x: 71, y: -74}
+      - {x: 76, y: -65}
+      - {x: 85, y: -51}
+      - {x: 85, y: -33}
+      - {x: 84, y: -25}
+      - {x: 84, y: -10}
+      - {x: 85, y: -3}
+      - {x: 85, y: 4}
+      - {x: 80, y: 15}
+      - {x: 68, y: 33}
+      - {x: 61, y: 39}
+      - {x: 28, y: 54}
+      - {x: 12, y: 57}
+      - {x: -13, y: 57}
+      - {x: -21, y: 54}
+      - {x: -40, y: 43}
+      - {x: -59, y: 26}
+      - {x: -75, y: 14}
+      - {x: -80, y: 1}
+      - {x: -85, y: -32}
+      - {x: -85, y: -58}
+      - {x: -80, y: -65}
+      - {x: -77, y: -77}
+      - {x: -70, y: -86}
+      - {x: -61, y: -91}
+      - {x: -59, y: -127}
+      - {x: -50, y: -138}
+      - {x: -40, y: -141}
+      - {x: -30, y: -141}
+      - {x: -21, y: -134}
+      - {x: -10, y: -124}
+      - {x: 16, y: -122}
+    - - {x: 234, y: -99}
+      - {x: 238, y: -86}
+      - {x: 238, y: -64}
+      - {x: 236, y: -50}
+      - {x: 231, y: -42}
+      - {x: 223, y: -30}
+      - {x: 210, y: -19}
+      - {x: 203, y: -15}
+      - {x: 193, y: -11}
+      - {x: 178, y: -6}
+      - {x: 170, y: -4}
+      - {x: 155, y: 0}
+      - {x: 170, y: 10}
+      - {x: 179, y: 19}
+      - {x: 180, y: 39}
+      - {x: 178, y: 48}
+      - {x: 167, y: 57}
+      - {x: 161, y: 57}
+      - {x: 153, y: 54}
+      - {x: 145, y: 57}
+      - {x: 140, y: 57}
+      - {x: 133, y: 50}
+      - {x: 119, y: 52}
+      - {x: 111, y: 47}
+      - {x: 97, y: 44}
+      - {x: 88, y: 36}
+      - {x: 90, y: 25}
+      - {x: 94, y: 15}
+      - {x: 100, y: 4}
+      - {x: 96, y: -8}
+      - {x: 96, y: -20}
+      - {x: 88, y: -40}
+      - {x: 85, y: -57}
+      - {x: 85, y: -90}
+      - {x: 88, y: -100}
+      - {x: 95, y: -113}
+      - {x: 114, y: -130}
+      - {x: 127, y: -135}
+      - {x: 138, y: -138}
+      - {x: 174, y: -138}
+      - {x: 186, y: -135}
+      - {x: 214, y: -121}
+      - {x: 227, y: -109}
+    - - {x: -131, y: 95}
+      - {x: -111, y: 117}
+      - {x: -99, y: 124}
+      - {x: -86, y: 146}
+      - {x: -85, y: 149}
+      - {x: -85, y: 174}
+      - {x: -88, y: 184}
+      - {x: -85, y: 195}
+      - {x: -85, y: 202}
+      - {x: -98, y: 226}
+      - {x: -108, y: 237}
+      - {x: -142, y: 252}
+      - {x: -157, y: 254}
+      - {x: -166, y: 255}
+      - {x: -184, y: 255}
+      - {x: -189, y: 254}
+      - {x: -210, y: 240}
+      - {x: -227, y: 226}
+      - {x: -244, y: 213}
+      - {x: -250, y: 198}
+      - {x: -254, y: 169}
+      - {x: -255, y: 160}
+      - {x: -255, y: 141}
+      - {x: -252, y: 134}
+      - {x: -247, y: 121}
+      - {x: -240, y: 112}
+      - {x: -234, y: 109}
+      - {x: -230, y: 95}
+      - {x: -230, y: 71}
+      - {x: -212, y: 57}
+      - {x: -199, y: 57}
+      - {x: -180, y: 74}
+      - {x: -154, y: 76}
+      - {x: -136, y: 89}
+    - - {x: 6, y: 74}
+      - {x: 26, y: 81}
+      - {x: 34, y: 90}
+      - {x: 53, y: 110}
+      - {x: 68, y: 121}
+      - {x: 76, y: 131}
+      - {x: 85, y: 147}
+      - {x: 85, y: 167}
+      - {x: 84, y: 178}
+      - {x: 84, y: 188}
+      - {x: 85, y: 193}
+      - {x: 85, y: 202}
+      - {x: 80, y: 214}
+      - {x: 68, y: 230}
+      - {x: 62, y: 237}
+      - {x: 21, y: 254}
+      - {x: 4, y: 255}
+      - {x: -16, y: 255}
+      - {x: -21, y: 252}
+      - {x: -40, y: 240}
+      - {x: -50, y: 232}
+      - {x: -61, y: 222}
+      - {x: -76, y: 213}
+      - {x: -83, y: 186}
+      - {x: -85, y: 162}
+      - {x: -85, y: 141}
+      - {x: -80, y: 133}
+      - {x: -75, y: 118}
+      - {x: -66, y: 110}
+      - {x: -60, y: 71}
+      - {x: -42, y: 57}
+      - {x: -33, y: 57}
+      - {x: -22, y: 62}
+      - {x: -8, y: 74}
+      - {x: -1, y: 75}
+    - - {x: 194, y: 82}
+      - {x: 208, y: 94}
+      - {x: 218, y: 105}
+      - {x: 241, y: 124}
+      - {x: 255, y: 148}
+      - {x: 255, y: 174}
+      - {x: 251, y: 183}
+      - {x: 255, y: 192}
+      - {x: 255, y: 201}
+      - {x: 249, y: 214}
+      - {x: 240, y: 230}
+      - {x: 230, y: 239}
+      - {x: 191, y: 254}
+      - {x: 175, y: 255}
+      - {x: 157, y: 255}
+      - {x: 152, y: 253}
+      - {x: 130, y: 240}
+      - {x: 119, y: 231}
+      - {x: 101, y: 217}
+      - {x: 93, y: 208}
+      - {x: 89, y: 194}
+      - {x: 86, y: 170}
+      - {x: 85, y: 164}
+      - {x: 85, y: 139}
+      - {x: 94, y: 129}
+      - {x: 93, y: 119}
+      - {x: 104, y: 110}
+      - {x: 109, y: 107}
+      - {x: 110, y: 71}
+      - {x: 128, y: 57}
+      - {x: 137, y: 57}
+      - {x: 148, y: 63}
+      - {x: 162, y: 74}
+      - {x: 185, y: 77}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
