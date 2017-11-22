@@ -10,8 +10,8 @@ public class PlayController : MonoBehaviour {
     public float jumpCDTimer = 2f;      //跳跃的CD
     private float jumpTimer = 0f;
 
-    public float moveFroce = 5f;        //移动的力
-    public float jumpFroce = 50f;       //跳跃的力
+    public float moveFroce = 30f;        //移动的力
+    public float jumpFroce = 500f;       //跳跃的力
 
     public float maxMoveSpeed = 5f;    //最大的移动速度
 	private Animator mPlayerAnimator;   //控制玩家动画的控制器
@@ -25,19 +25,20 @@ public class PlayController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//获取音量
-		float volume = MicrophoneInput.Instance.getVolume();
+		
+        //获取音量
+        float volume = MicrophoneInput.Instance.getVolume();
 
         jumpTimer += Time.deltaTime;
 
         if(volume > JUMP_LIMIT && jumpTimer > jumpCDTimer){
 			//TODO: Jump
-			PlayerJump();
+			PlayerJump(volume);
             jumpTimer = 0f;
         }
 		if(volume > MOVE_LIMIT){
 			//TODO: Move
-			PlayerMove();
+			PlayerMove(volume);
 		}
 
 	}
@@ -46,9 +47,9 @@ public class PlayController : MonoBehaviour {
 	/**
 	玩家移动的方法
 	 */
-	private void PlayerMove(){
+	private void PlayerMove(float percent){
 
-        mRigidbody.AddForce(Vector2.right * moveFroce, ForceMode2D.Force);
+        mRigidbody.AddForce(Vector2.right * moveFroce * percent, ForceMode2D.Force);
 
         if(mRigidbody.velocity.x > maxMoveSpeed){
 			mRigidbody.velocity = new Vector2(maxMoveSpeed , mRigidbody.velocity.y);
@@ -60,8 +61,8 @@ public class PlayController : MonoBehaviour {
 	/**
 	玩家跳跃的方法
 	 */
-	private void PlayerJump(){
-        mRigidbody.AddForce(Vector2.up * jumpFroce, ForceMode2D.Force);
+	private void PlayerJump(float percent){
+        mRigidbody.AddForce(Vector2.up * jumpFroce * percent, ForceMode2D.Force);
 
         mPlayerAnimator.SetTrigger("Jump");
     }

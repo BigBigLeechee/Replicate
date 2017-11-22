@@ -37,7 +37,12 @@ public class MicrophoneInput : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        volume = GetMaxVolume();
+        if(!GameController.Instance.IsGameOver()){
+            volume = GetMaxVolume();
+        }else{
+            volume = 0f;
+        }
+        
 	}
 
 

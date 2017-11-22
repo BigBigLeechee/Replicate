@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraFroce : MonoBehaviour {
+public class CameraFocus : MonoBehaviour {
 
     public float minDistance = 5f;  // 玩家和镜头的最小距离
     public Transform playerTransform;//玩家的位置
