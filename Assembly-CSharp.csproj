@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\CameraFroce.cs" />
      <Compile Include="Assets\Script\MicrophoneInput.cs" />
      <Compile Include="Assets\Script\Player\PlayController.cs" />
  <Reference Include="UnityEngine.UI">
