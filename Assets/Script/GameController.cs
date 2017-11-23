@@ -6,6 +6,7 @@ public class GameController : MonoBehaviour {
 
 
     public GameObject gameOverUI;
+    public AudioSource bgm;
     private static GameController mInstance;
     private bool isGameOver = false;
 
@@ -42,6 +43,8 @@ public class GameController : MonoBehaviour {
 	 */
     private void OnGameOver(){
         gameOverUI.SetActive(true);
+
+        StopBgm();
     }
 
     /**
@@ -49,5 +52,12 @@ public class GameController : MonoBehaviour {
      */
     private void OnGameWin(){
         gameOverUI.SetActive(true);
+
+        StopBgm();
+    }
+
+
+    private void StopBgm(){
+        bgm.Stop();
     }
 }

@@ -81,7 +81,7 @@ public class MicrophoneInput : MonoBehaviour {
             }
         }
 
-        return maxVolume;
+        return maxVolume * maxVolume;
     }
 
     public float getVolume(){

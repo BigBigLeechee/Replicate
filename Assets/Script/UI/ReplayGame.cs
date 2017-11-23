@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 
 public class ReplayGame : MonoBehaviour {
 
@@ -11,7 +11,7 @@ public class ReplayGame : MonoBehaviour {
     void Start () {
         retryButton.onClick.AddListener(() =>
         {
-            EditorSceneManager.LoadScene("MainScene");
+            SceneManager.LoadScene("MainScene");
         });
     }
 	
