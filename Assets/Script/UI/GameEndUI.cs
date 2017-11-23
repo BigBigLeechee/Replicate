@@ -9,7 +9,7 @@ public class GameEndUI : MonoBehaviour {
     private Text mGameEndText;
     // Use this for initialization
     void Start () {
-        mGameEndText = GetComponent<Text>();
+        mGameEndText = GameObject.Find("EndText").GetComponent<Text>();
     }
 	
 	// Update is called once per frame
