@@ -61,6 +61,7 @@
      <Compile Include="Assets\Script\Player\OutOfGamePlace.cs" />
      <Compile Include="Assets\Script\Player\PlayController.cs" />
      <Compile Include="Assets\Script\UI\GameEndUI.cs" />
+     <Compile Include="Assets\Script\UI\HelpUI.cs" />
      <Compile Include="Assets\Script\UI\OpenGameUI.cs" />
      <Compile Include="Assets\Script\UI\ReplayGame.cs" />
      <Compile Include="Assets\Script\WinFlag\WinFlag.cs" />

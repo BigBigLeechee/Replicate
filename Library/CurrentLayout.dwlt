@@ -91,7 +91,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 77
+  controlID: 128
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 46
+  controlID: 24
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -363,20 +363,20 @@ MonoBehaviour:
     height: 614
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a271feff
-    m_LastClickedID: -101982
-    m_ExpandedIDs: 7869feffa271feff64bcffff16c9ffff14fcffff16fcffff1afcffff0000000048270000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: fcf3feff84c2ffff1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: OpenGame
-      m_OriginalName: OpenGame
+      m_Name: HelpCanvas
+      m_OriginalName: HelpCanvas
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -120884
+      m_UserData: -15740
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -459,19 +459,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Script/UI
+    - Assets/Sprite
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Script/UI
+  - Assets/Sprite
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\UnityLearning\Replicate
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: de260000
-    m_LastClickedID: 9950
-    m_ExpandedIDs: 00000000262600002a26000000ca9a3bffffff7f
+    m_SelectedIDs: dc260000
+    m_LastClickedID: 9948
+    m_ExpandedIDs: 00000000282600002c26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,7 +499,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000262600002a260000
+    m_ExpandedIDs: 00000000282600002c260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -530,15 +530,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: 6e260000d626000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: OpenGame
-      m_OriginalName: OpenGame
+      m_Name: GameEndUI
+      m_OriginalName: GameEndUI
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 16280
+      m_UserData: 1914
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -657,14 +657,14 @@ MonoBehaviour:
     width: 649
     height: 274
   m_SceneLighting: 1
-  lastFramingTime: 1369.572829051485
+  lastFramingTime: 5758.020849016644
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.463421, y: 2.0158086, z: 0.034179684}
+    m_Target: {x: 0.74395025, y: 0.17812352, z: 0}
     speed: 2
-    m_Value: {x: -8.463421, y: 2.0158086, z: 0.034179684}
+    m_Value: {x: 0.74395025, y: 0.17812352, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -691,9 +691,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.755251
+    m_Target: 13.2376375
     speed: 2
-    m_Value: 12.755251
+    m_Value: 13.2376375
   m_Ortho:
     m_Target: 1
     speed: 2
